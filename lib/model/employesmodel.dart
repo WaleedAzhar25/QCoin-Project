@@ -1,5 +1,4 @@
 class EmployContent{
-  
   String image;
   String name;
 
